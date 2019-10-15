@@ -1,6 +1,5 @@
 // Test away!
 import React from 'react'
-import renderer from 'react-test-renderer';
 import Display from './Display'
 import { render, fireEvent } from '@testing-library/react';
 
